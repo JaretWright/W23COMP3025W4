@@ -3,4 +3,6 @@
     <string name="enter_name">Enter Name</string>
     <string name="pass_details"><![CDATA[PASS DETAILS >>]]></string>
     <string name="back_to_main">BACK TO MAIN</string>
+    <string name="load_url">LOAD URL</string>
+    <string name="enter_url">Enter URL</string>
 </resources>
