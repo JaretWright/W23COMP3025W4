@@ -5,4 +5,6 @@
     <string name="back_to_main">BACK TO MAIN</string>
     <string name="load_url">LOAD URL</string>
     <string name="enter_url">Enter URL</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_message">Enter Message</string>
 </resources>
