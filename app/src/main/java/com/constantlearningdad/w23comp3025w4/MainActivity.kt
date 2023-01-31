@@ -33,5 +33,9 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this,"Enter your name",Toast.LENGTH_LONG).show()
             }
         }
+
+        binding.urlButton.setOnClickListener {
+            startActivity(Intent(this,WebBrowserActivity::class.java))
+        }
     }
 }
