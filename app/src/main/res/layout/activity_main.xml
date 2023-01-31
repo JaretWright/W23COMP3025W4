@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/compass" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/nameEditText"
         android:layout_width="@dimen/button_width"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
@@ -35,12 +35,12 @@
         android:padding="5dp"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/passDetailsButton"
         android:layout_width="@dimen/button_width"
         android:layout_height="wrap_content"
         android:text="@string/pass_details"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
+        app:layout_constraintTop_toBottomOf="@+id/nameEditText" />
 </androidx.constraintlayout.widget.ConstraintLayout>

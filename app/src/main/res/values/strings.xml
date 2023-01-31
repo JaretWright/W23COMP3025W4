@@ -2,4 +2,5 @@
     <string name="app_name">Learning about Intents</string>
     <string name="enter_name">Enter Name</string>
     <string name="pass_details"><![CDATA[PASS DETAILS >>]]></string>
+    <string name="back_to_main">BACK TO MAIN</string>
 </resources>
